@@ -4,7 +4,7 @@ Este projeto é parte da Trilha de CSS da DIO (Digital Innovation One) e consist
 
 ## Demonstração
 
-![Landing Page](https://user-images.githubusercontent.com/55519539/183538055-6cce660c-7d1d-4d15-a4be-ffeb5b37c956.png)
+![Landing Page](https://andrefods1993.github.io/dio.me_CSSDeveloper_modulo_1/)
 
 ## Tecnologias Utilizadas
 
