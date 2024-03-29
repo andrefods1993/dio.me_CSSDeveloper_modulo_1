@@ -1,22 +1,30 @@
-# Desafio 01: Criando sua primeira Landing Page com HTML e CSS
+# Landing Page Criativa com HTML e CSS
 
-Bem vindo(a) ao primeiro desafio da Trilha de CSS da DIO! Nela, você vai construir sua primeira Landing Page com HTML e CSS, colocando em prática os fundamentos do CSS,
-as propriedades básicas da linguagem de estilização, além de trabalhar com as unidades de medidas relativas e absolutas que aprendemos ao longo da trilha.
+Este projeto é parte da Trilha de CSS da DIO (Digital Innovation One) e consiste na criação de uma Landing Page utilizando HTML e CSS. O objetivo é aplicar os conceitos fundamentais de CSS, trabalhar com unidades de medida relativas e absolutas, além de entender como interligar arquivos HTML e CSS para estilização de páginas web.
 
-[Clique aqui](https://micheleambrosio.github.io/dio-trilha-css-desafio-01/) para acessar o resultado final da Landing Page criada a partir do desafio!
+## Demonstração
 
-![image](https://user-images.githubusercontent.com/55519539/183538055-6cce606c-7d1d-4d15-a4be-ffeb5b37c956.png)
+![Landing Page](https://user-images.githubusercontent.com/55519539/183538055-6cce660c-7d1d-4d15-a4be-ffeb5b37c956.png)
 
-Para você realizar o desafio, basta fazer um **fork** para o seu GitHub e começar a mexer no projeto.
-Dentro da pasta *main*, você vai encontrar todas as imagens e o arquivo HTML, contendo a estrutura básica da sua página, faltando apenas
-realizar a estilização da sua página. É necessário que você faça toda a parte responsável por interligar sua página HTML com suas folhas
-de estilo para que o resultado da estilização funcione.
+## Tecnologias Utilizadas
 
-[Link do Figma](https://www.figma.com/file/3PiokoJj9IhGDnNiWAJbz7/DIO---Desafio-01?node-id=2%3A6) contendo o protótipo do desafio para
-que você possa se basear.
+- HTML5: Utilizado para estruturar o conteúdo da página.
+- CSS3: Responsável pela estilização e design da Landing Page.
+- Figma: Utilizado como base para o design do protótipo da página.
 
-*Observações: para aplicar os textos em gradiente, utilize a propriedade CSS background-clip, porém, para funcionar em alguns navegadores,
-é necessário utilizar a propriedade -webkit-background-clip: text;*
+## Funcionalidades
 
-Caso tenha alguma dúvida, ou queira comparar o resultado do desafio que você fez, nós temos o site finalizado na branch *final*. Basta alterar a branch do projeto
-utilizando o comando `git checkout final` no seu terminal.
+- Aplicação de gradientes em textos utilizando a propriedade CSS `background-clip`.
+- Utilização de unidades de medida relativas e absolutas para garantir a responsividade da página em diferentes dispositivos.
+
+## Protótipo
+
+O design da Landing Page foi baseado no protótipo disponibilizado no [Figma](https://www.figma.com/file/3PiokoJj9IhGDnNiWAJbz7/DIO---Desafio-01?node-id=2%3A6), o qual serviu como referência para a estrutura e estilização da página.
+
+## Observações
+
+Para garantir o funcionamento correto dos gradientes em textos, foi necessário utilizar a propriedade `-webkit-background-clip: text;` em conjunto com `background-clip`.
+
+## Conclusão
+
+Este projeto proporcionou a aplicação prática dos conhecimentos adquiridos na Trilha de CSS da DIO, permitindo a criação de uma Landing Page criativa e responsiva utilizando HTML e CSS.
