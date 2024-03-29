@@ -4,7 +4,8 @@ Este projeto é parte da Trilha de CSS da DIO (Digital Innovation One) e consist
 
 ## Demonstração
 
-https://andrefods1993.github.io/dio.me_CSSDeveloper_modulo_1/
+![css](https://github.com/andrefods1993/dio.me_CSSDeveloper_modulo_1/assets/132412680/ea0816bc-7b50-43eb-b6dc-7647b12a9124)
+
 
 ## Tecnologias Utilizadas
 
